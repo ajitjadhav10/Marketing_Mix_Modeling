@@ -6,7 +6,7 @@
 What are MMMs?
 - MMMs are statistical models used to measure the effectiveness of marketing spending.
 
-MMMs use :
+Media Mix Models use :
   - historical sales data to predict sales
   - based on advertising variables and some control variables like weather, seasonality and market competition.
 
@@ -75,13 +75,13 @@ Posterior distribution of media effects:
   ![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/b79209d2adca5290a3a212b8fd62cab856de3a2c/Images/Screenshot%202024-06-17%20at%203.57.37%20PM.png)
 
 
-- Effect on KPI as marketing spending increases
+- Effect on KPI as marketing spending increases.
 ![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/f0b0447dfeb7dc75349914d08fca9f0a6c9c40fe/Images/Screenshot%202024-06-17%20at%204.03.45%20PM.png)
 
 
 
 **Budget Optimization:**
-- Budget allocation before and after optimization 
+- Budget allocation before and after optimization.
 
 ![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/f0b0447dfeb7dc75349914d08fca9f0a6c9c40fe/Images/Screenshot%202024-06-17%20at%204.04.02%20PM.png)
 
