@@ -45,6 +45,60 @@ The 3 approaches are:
 For this project I've used the Hill-Adstock approach after testing all three approaches as the Hill-Adstock approach offered the best out of sample fit.
 
 
+Posterior distribution of media effects:
+
+![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/c19fb9294b71c943cf3c79f2fde996efa7822524/Images/Screenshot%202024-06-17%20at%204.12.09%20PM.png)
+
+
+
+**Model Predictions:**
+
+
+- True KPI vs Predicted KPI (not scaled):
+![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/415168dde22541b32438577d6f686dbc38bf5c94/Images/Screenshot%202024-06-17%20at%203.56.35%20PM.png)
+
+- True KPI vs Predicted KPI (scaled):
+![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/415168dde22541b32438577d6f686dbc38bf5c94/Images/Screenshot%202024-06-17%20at%203.56.43%20PM.png)
+
+
+**Media Insights:**
+
+ - Baseline sales vs Effect of media.
+   - About 70% of sales are baseline sales (blue region).
+   - The other colors show media contribution to the remaining sales.
+
+   ![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/8d9c9322cff2d37a78c9071d3e4eb9121ff075a6/Images/download.png)
+
+
+- Estimated ROI of each media channel
+  -  Online Display is the most efficient channel.
+  ![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/b79209d2adca5290a3a212b8fd62cab856de3a2c/Images/Screenshot%202024-06-17%20at%203.57.37%20PM.png)
+
+
+- Effect on KPI as marketing spending increases
+![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/f0b0447dfeb7dc75349914d08fca9f0a6c9c40fe/Images/Screenshot%202024-06-17%20at%204.03.45%20PM.png)
+
+
+
+**Budget Optimization:**
+- Budget allocation before and after optimization 
+
+![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/f0b0447dfeb7dc75349914d08fca9f0a6c9c40fe/Images/Screenshot%202024-06-17%20at%204.04.02%20PM.png)
+
+
+![](https://github.com/ajitjadhav10/Mix_Marketing_Modeling/blob/f0b0447dfeb7dc75349914d08fca9f0a6c9c40fe/Images/Screenshot%202024-06-17%20at%204.04.52%20PM.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
