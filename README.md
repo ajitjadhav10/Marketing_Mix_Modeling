@@ -1,4 +1,4 @@
-# Marketing Mix Modeling (MMM)
+# Media Mix Modeling (MMM)
 
 **Aim of the project:** Optimization of media budget allocation using Lightweight MMM.
 
