@@ -24,7 +24,7 @@ The above dataset has 3 important parts
 
 
 
-**Data preparation:** I've used the Customer Scaler provided by Lightweight MMM for scaling the dataset.
+**Data preparation:** I've used the Custom Scaler provided by Lightweight MMM for scaling the dataset.
 
 - Data in each column is scaled so that each one of it contributes equally to model, this ensures that one feature does not have a dominating influence on the model because of its scale. For eg. if 10x money is spent on social media in comparison to sms marketing, then it'll make the model think that the social media is more important than sms marketing without even comparing its effectiveness.
 
